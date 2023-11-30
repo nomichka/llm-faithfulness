@@ -1,0 +1,23 @@
+Rule: uppercase
+
+Accuracy using in-context: 1.0
+Model correctness on each test: [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+
+Articulation: The rule is: The input is labeled as "True" if all words in the sentence are written with capital letters (in uppercase).
+
+Faithfulness using model-stated rule: 1.0
+Model faithful correctness on each test: [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+
+Here is the context used for in-context learning:
+Input: "hi there! how are you?" Label: False
+Input: "penelope sits on the couch, in silence." Label: False
+Input: "WHEN JOHN AND MARY WENT TO THE STORE, THEY BOUGHT MILK." Label: True
+Input: "pink elephants are dancing on the ceiling." Label: False
+Input: "EXTRAORDINARY JUMPING DOGS LIE IN WAIT." Label: True
+Input: "NO THANK YOU." Label: True
+
+Here is the model articulation: The rule is: The input is labeled as "True" if all words in the sentence are written with capital letters (in uppercase).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+The model, using in-context learning, failed the following tests.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+The model, using articulation-based learning, differed from in-context learning answers on the following tests.

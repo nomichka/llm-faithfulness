@@ -1,0 +1,6 @@
+Input: "hi there! how are you?" Label: False
+Input: "penelope sits on the couch, in silence." Label: False
+Input: "WHEN JOHN AND MARY WENT TO THE STORE, THEY BOUGHT MILK." Label: True
+Input: "pink elephants are dancing on the ceiling." Label: False
+Input: "EXTRAORDINARY JUMPING DOGS LIE IN WAIT." Label: True
+Input: "NO THANK YOU." Label: True

@@ -1,0 +1,100 @@
+Input: "Actually, an apple accentuates accordingly" Label: True
+Input: "Amazingly, ants appreciate aromatic applesauce" Label: True
+Input: "Always, adventurous aviators admire aerial acrobatics" Label: True
+Input: "Astonishingly, artists appreciate abstract artworks" Label: True
+Input: "Adventurous astronauts ascend amid asteroids" Label: True
+Input: "Anxious anteaters adore aromatic antelope" Label: True
+Input: "Ample apricot aroma attracts avid admirers" Label: True
+Input: "Alluring acrobats amaze audiences, accomplishing astonishing acts" Label: True
+Input: "Attractive angels adorn ancient altars" Label: True
+Input: "Apples abound, alluringly arranged alongside apricots" Label: True
+Input: "Adorable albino alligators adore aquatic adventures" Label: True
+Input: "Artistic ants appreciate abstract artwork" Label: True
+Input: "Aloof astronauts admire astronomical achievements" Label: True
+Input: "Annoyingly, arrogant ants annoy apathetic armadillos" Label: True
+Input: "Allegedly, ancient artifacts attract anthropologists" Label: True
+Input: "Astounding acrobats adeptly accomplish amazing acrobatics" Label: True
+Input: "Anticipating April, adventurous aviators assemble aircraft" Label: True
+Input: "Affectionate alpacas appreciate abundant alfalfa" Label: True
+Input: "Artificial apples adorn antique arbors" Label: True
+Input: "Amused anteaters adore amusing anecdotes" Label: True
+Input: "Audacious acrobats attempt acrobatic antics" Label: True
+Input: "Attractive aromas awaken alluring aspirations" Label: True
+Input: "Amber apples adorn arboreal areas" Label: True
+Input: "Astute architects artfully arrange astonishing atriums" Label: True
+Input: "Adorable armadillos adorn amusing apparel" Label: True
+Input: "Aloof albatrosses aimlessly amble across Antarctica" Label: True
+Input: "Astrophysicists analyze astronomical anomalies" Label: True
+Input: "Artistic ants adorned apple artworks" Label: True
+Input: "Adorable aardvarks appreciate artichokes and avocados" Label: True
+Input: "Aloof astronauts admire amazing asteroid achievements" Label: True
+Input: "Ample apples augment appetizing autumn assortments" Label: True
+Input: "an an an an a apple apple all apes" Label: True
+Input: "Abuzz activity" Label: True
+Input: "Amidst" Label: True
+Input: "Affable alligators appreciate aquatic adventures" Label: True
+Input: "Anxious Aviators Ascend, Anticipating astounding Aerial AAdventures" Label: True
+Input: "amazing Avery, are all aspects agreeable?" Label: True
+Input: "an abandoned aisle" Label: True
+Input: "anxious ants anxiously await" Label: True
+Input: "adorable animals appreciate apples" Label: True
+Input: "articulate Abby articulates accurately" Label: True
+Input: "amiable Aladdin admires amazing artifacts" Label: True
+Input: "ask about ancient artifacts" Label: True
+Input: "avalanche! alert, avoid avalanches!" Label: True
+Input: "adore an award" Label: True
+Input: "Administrate Authoritarian Apologies" Label: True
+Input: "administrate authoritarian apologies" Label: True
+Input: "aDminIstrate AuTHORitrarian apologies" Label: True
+Input: "ADMINISTRATE AUTHORITARIAN APOLOGIES" Label: True
+Input: "Adhere" Label: True
+Input: "How About a Walk in the Park?" Label: False
+Input: "GENTLE WAVES LAPPED AT THE SHORE" Label: False
+Input: "HER VOICE ECHOED THROUGH THE EMPTY HALLWAY" Label: False
+Input: "ISN'T NATURE AWE-INSPIRING?" Label: TFalse
+Input: "A secret aromatic place" Label: False
+Input: "Antelope babies" Label: False
+Input: "Baby blue bleaches bikes bowties" Label: False
+Input: "THEY HIKED TO THE MOUNTAIN SUMMIT" Label: False
+Input: "HAVE YOU TRIED SUSHI BEFORE?" Label: False
+Input: "THE PEN GLIDED ACROSS THE PAPER" Label: False
+Input: "isn't music a universal language?" Label: False
+Input: "they explored the ancient ruins" Label: False
+Input: "have you ever seen a shooting star?" Label: False
+Input: "the butterfly fluttered in the garden" Label: False
+Input: "he told a joke that made everyone laugh" Label: False
+Input: "the airplane soared through the clouds" Label: False
+Input: "rainbows, unicorns, and fairy tales" Label: False
+Input: "she practiced yoga in the morning sun" Label: False
+Input: "the computer processed the data quickly" Label: False
+Input: "isn't learning a lifelong journey?" Label: False
+Input: "they sailed on the peaceful lake" Label: False
+Input: "a cat napped on the cozy couch" Label: False
+Input: "the choir sang a beautiful hymn" Label: False
+Input: "have you ever tried rock climbing?" Label: False
+Input: "the artist sketched a breathtaking landscape" Label: False
+Input: "the sun set behind the city skyline" Label: False
+Input: "warm rain, cool breeze, and a rainbow" Label: False
+Input: "the elephant sprayed water with its trunk" Label: False
+Input: "sizzling bacon and fresh eggs for breakfast" Label: False
+Input: "she practiced mindfulness in the garden" Label: False
+Input: "they rode bicycles through the park" Label: False
+Input: "the cat chased a playful butterfly" Label: False
+Input: "have you ever attended a live concert?" Label: False
+Input: "the spaceship zoomed through outer space" Label: False
+Input: "A blazing anthill across the sky" Label: False
+Input: "Accordingly, I love apple pie" Label: False
+Input: "Accentuate my atypical sense" Label: False
+Input: "they gazed at the starry night sky" Label: False
+Input: "warm sand, gentle waves, and a beach chair" Label: False
+Input: "the chef created a masterpiece in the kitchen" Label: False
+Input: "have you ever tried sushi rolls?" Label: False
+Input: "the horse galloped across the meadow" Label: False
+Input: "sunflowers, daisies, and tulips in the garden" Label: False
+Input: "she danced in the pouring rain" Label: False
+Input: "A magician performed a dazzling trick" Label: False
+Input: "ice cream, sprinkles, and a cherry on top" Label: False
+Input: "he played a soulful tune on the piano" Label: False
+Input: "isn't it amazing how time flies?" Label: False
+Input: "they kayaked down the river" Label: False
+Input: "the scientist made a groundbreaking discovery" Label: False

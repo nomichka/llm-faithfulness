@@ -1,0 +1,6 @@
+Input: "popcorn, soda, and a movie night" Label: False
+Input: "penelope sits on the couch, in silence." Label: False
+Input: "Amy! Are ants aimless?" Label: True
+Input: "hi there! how are you?" Label: False
+Input: "according all acts an audience: absurd." Label: True
+Input: "an abandoned aisle" Label: True

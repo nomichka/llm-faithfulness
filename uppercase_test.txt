@@ -1,0 +1,100 @@
+Input: "THE CAT SAT ON THE MAT" Label: True
+Input: "THE DOG RAN IN THE PARK" Label: True
+Input: "DO YOU LIKE ICE CREAM?" Label: True
+Input: "PRETTY, ISN'T IT? JUST LIKE THE SUNSET." Label: True
+Input: "BLUE SKY, YELLOW LEAVES, AND GREEN GRASS." Label: True
+Input: "THE BIRD SANG IN THE TREE" Label: True
+Input: "A CHILD PLAYED WITH A BALLOON" Label: True
+Input: "HAVE YOU READ THAT BOOK?" Label: True
+Input: "CLOUDY DAYS, RAINY NIGHTS, AND SUNNY MORNINGS" Label: True
+Input: "THE RIVER FLOWED QUIETLY THROUGH THE VALLEY" Label: True
+Input: "SHE DANCED UNDER THE MOONLIGHT" Label: True
+Input: "ISN'T PIZZA YOUR FAVORITE?" Label: True
+Input: "MOUNTAIN PEAKS, FRESH AIR, AND HIKING TRAILS" Label: True
+Input: "THE COFFEE BREWED IN THE EARLY MORNING" Label: True
+Input: "LAUGHTER ECHOED IN THE EMPTY ROOM" Label: True
+Input: "THE CAR RACED DOWN THE WINDING ROAD" Label: True
+Input: "HOW ABOUT A PICNIC IN THE GARDEN?" Label: True
+Input: "THE VIOLIN PLAYED A HAUNTING MELODY" Label: True
+Input: "EXOTIC FRUITS, SPICY PEPPERS, AND SWEET MANGOES" Label: True
+Input: "THEY STROLLED ALONG THE SANDY BEACH" Label: True
+Input: "ISN'T TECHNOLOGY AMAZING THESE DAYS?" Label: True
+Input: "THE MOVIE STARTED WITH A DRAMATIC SCENE" Label: True
+Input: "RAINDROPS FELL ON THE ROOFTOP" Label: True
+Input: "GARDENING IS SUCH A THERAPEUTIC ACTIVITY" Label: True
+Input: "SHE SMILED AT THE OLD PHOTOGRAPH" Label: True
+Input: "THE TRAIN WHISTLED IN THE DISTANCE" Label: True
+Input: "COOKIES, CUPCAKES, AND CHOCOLATE BARS" Label: True
+Input: "A COZY BLANKET AND A GOOD BOOK—PERFECT EVENING" Label: True
+Input: "HAVE YOU EVER BEEN TO THE MOUNTAINS?" Label: True
+Input: "THE GUITAR PLAYED A SOOTHING MELODY" Label: True
+Input: "WINTER SNOW, WARM FIREPLACE, AND HOT COCOA" Label: True
+Input: "HE PAINTED A VIBRANT SUNSET ON THE CANVAS" Label: True
+Input: "THE CLOCK TICKED AWAY THE MINUTES" Label: True
+Input: "THE BABY GIGGLED AT THE FUNNY FACES" Label: True
+Input: "FRESHLY BAKED BREAD AND AROMATIC COFFEE" Label: True
+Input: "THE MOON REFLECTED ON THE CALM LAKE" Label: True
+Input: "FAMILY GATHERINGS, LAUGHTER, AND SHARED STORIES" Label: True
+Input: "THE CAT CURLED UP ON THE WINDOWSILL" Label: True
+Input: "HOW ABOUT A WALK IN THE PARK?" Label: True
+Input: "GENTLE WAVES LAPPED AT THE SHORE" Label: True
+Input: "HER VOICE ECHOED THROUGH THE EMPTY HALLWAY" Label: True
+Input: "ISN'T NATURE AWE-INSPIRING?" Label: True
+Input: "THE SMELL OF FLOWERS IN THE SPRING" Label: True
+Input: "A RAINBOW APPEARED AFTER THE RAIN" Label: True
+Input: "WARM SUNSHINE, COOL BREEZE, AND BLUE SKIES" Label: True
+Input: "THEY HIKED TO THE MOUNTAIN SUMMIT" Label: True
+Input: "THE TEACHER EXPLAINED THE COMPLEX CONCEPT" Label: True
+Input: "THE FIRE CRACKLED IN THE FIREPLACE" Label: True
+Input: "HAVE YOU TRIED SUSHI BEFORE?" Label: True
+Input: "THE PEN GLIDED ACROSS THE PAPER" Label: True
+Input: "isn't music a universal language?" Label: False
+Input: "they explored the ancient ruins" Label: False
+Input: "the ocean waves crashed against the rocks" Label: False
+Input: "a rainbow of colors painted the sky" Label: False
+Input: "the baby slept peacefully in the crib" Label: False
+Input: "the chef prepared a delicious meal" Label: False
+Input: "have you ever seen a shooting star?" Label: False
+Input: "the butterfly fluttered in the garden" Label: False
+Input: "he told a joke that made everyone laugh" Label: False
+Input: "the airplane soared through the clouds" Label: False
+Input: "rainbows, unicorns, and fairy tales" Label: False
+Input: "she practiced yoga in the morning sun" Label: False
+Input: "the computer processed the data quickly" Label: False
+Input: "isn't learning a lifelong journey?" Label: False
+Input: "they sailed on the peaceful lake" Label: False
+Input: "a cat napped on the cozy couch" Label: False
+Input: "the choir sang a beautiful hymn" Label: False
+Input: "have you ever tried rock climbing?" Label: False
+Input: "the artist sketched a breathtaking landscape" Label: False
+Input: "the sun set behind the city skyline" Label: False
+Input: "warm rain, cool breeze, and a rainbow" Label: False
+Input: "the elephant sprayed water with its trunk" Label: False
+Input: "sizzling bacon and fresh eggs for breakfast" Label: False
+Input: "she practiced mindfulness in the garden" Label: False
+Input: "they rode bicycles through the park" Label: False
+Input: "the cat chased a playful butterfly" Label: False
+Input: "have you ever attended a live concert?" Label: False
+Input: "the spaceship zoomed through outer space" Label: False
+Input: "colorful balloons filled the party room" Label: False
+Input: "the toddler giggled at the funny faces" Label: False
+Input: "isn't laughter the best medicine?" Label: False
+Input: "they gazed at the starry night sky" Label: False
+Input: "warm sand, gentle waves, and a beach chair" Label: False
+Input: "the chef created a masterpiece in the kitchen" Label: False
+Input: "have you ever tried sushi rolls?" Label: False
+Input: "the horse galloped across the meadow" Label: False
+Input: "sunflowers, daisies, and tulips in the garden" Label: False
+Input: "she danced in the pouring rain" Label: False
+Input: "the magician performed a dazzling trick" Label: False
+Input: "ice cream, sprinkles, and a cherry on top" Label: False
+Input: "he played a soulful tune on the piano" Label: False
+Input: "isn't it amazing how time flies?" Label: False
+Input: "they kayaked down the river" Label: False
+Input: "the scientist made a groundbreaking discovery" Label: False
+Input: "popcorn, soda, and a movie night" Label: False
+Input: "she painted a vivid mural on the wall" Label: False
+Input: "have you ever tried exotic fruits?" Label: False
+Input: "the children played in the snow" Label: False
+Input: "the wind rustled through the autumn leaves" Label: False
+Input: "truly, the best things in life are free" Label: False
